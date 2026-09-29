@@ -1,9 +1,12 @@
 {
-  "title": "Pick a job. Get paid. | Beyond Orbit",
+  "title": "Crack rocks. Get paid. | Beyond Orbit",
   "caption": [
-    "Take a contract, crack the asteroids, jump home alive. 14,349 credits banked.",
+    "Take a mining contract, crack the asteroids, jump home alive. 14,349 credits banked.",
     "Asteroid mining contract done, cargo full, jump home. Everything in the hold goes to the bank."
   ],
-  "hashtags": ["spaceshooter", "mining"],
-  "verified": "footage 2026-09-27 VID_20260927_114757 t=9 contract board ASTEROID MINING selected (contracts.gd 'Crack {n} asteroids'), t=37 LAUNCHING, t=44-49 asteroids cracked, t=48 'CONTRACT COMPLETE! Jump home to collect +560 CR', t=391-395 WELCOME BACK cargo 13789 + contract 560 = +14349 CR"
+  "hashtags": [
+    "spaceshooter",
+    "mining"
+  ],
+  "verified": "footage 2026-09-27 VID_20260927_114757 t=9 contract board ASTEROID MINING selected (contracts.gd 'Crack {n} asteroids'), t=37 LAUNCHING, t=44-49 asteroids cracked, t=48 'CONTRACT COMPLETE! Jump home to collect +560 CR', t=391-395 WELCOME BACK cargo 13789 + contract 560 = +14349 CR; RECUT 2026-09-29: t=46.2-49.6 laser cracks asteroids + CONTRACT COMPLETE, t=388 jump drive charging, t=391.4 WELCOME BACK +14349 CR (contract board removed from clip -> hook changed)"
 }
