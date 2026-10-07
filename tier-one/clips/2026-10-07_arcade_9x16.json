@@ -1,0 +1,12 @@
+{
+  "title": "7 stages, 1 boss | TIER ONE Arcade",
+  "caption": [
+    "Pick a captain and fight through 7 stages and a boss team built to counter you. Clear it to unlock their ending.",
+    "Arcade mode. 7 stages, 1 rival boss, 40 fighter endings to collect."
+  ],
+  "hashtags": [
+    "arcade",
+    "cardbattle"
+  ],
+  "verified": "footage 2026-10-06 take2/take3 (2.0-build laitetestin korjausten jalkeen) + koodi: devicetest 374.2 CHOOSE YOUR CAPTAIN + 378.6 polku (valikot, ei muuttuneet korjauksissa), take3 164.4 READY/FIGHT, 216.0 Knockout Cross + Sisu Hammer, 226.4 Old School Haymaker/PARRY/K.O.; 7 tasoa + boss (220:3,62,235), boss tyyppiedulla (220:46-71), ending (220:5-6), Endings x/40 (arcade_screen.dart:179)"
+}
