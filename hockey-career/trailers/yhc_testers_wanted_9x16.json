@@ -1,6 +1,14 @@
 {
   "title": "My hockey game needs testers | Your Hockey Career",
-  "caption": "My hockey game needs testers 🏒 Your Hockey Career: real time 5v5 hockey where you play every shift yourself, plus a full career from a 16 year old rookie to a legend. It's free on Android and in closed testing now. Join through the link in bio, it takes 3 quick steps. Have you tested with us before? Jump in again!",
-  "hashtags": ["hockey", "hockeygame", "androidgame", "closedtest"],
+  "caption": [
+    "My hockey game needs testers 🏒 Your Hockey Career: real time 5v5 hockey where you play every shift yourself, plus a full career from a 16 year old rookie to a legend. Free on Android, now in closed testing.\n\nJoin the test (3 quick steps): https://finpixelgames.github.io/hockey",
+    "My hockey game needs testers 🏒 Your Hockey Career: real time 5v5 hockey where you play every shift yourself, plus a full career from a 16 year old rookie to a legend. It's free on Android and in closed testing now. Join through the link in bio, it takes 3 quick steps. Have you tested with us before? Jump in again!"
+  ],
+  "hashtags": [
+    "hockey",
+    "hockeygame",
+    "androidgame",
+    "closedtest"
+  ],
   "verified": "trailer 2026-10-16: real AI match footage (dev/movie_match) + career views (dev/shot_trailer); 5v5, career from 16, free Android, closed test open"
 }
