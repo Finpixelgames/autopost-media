@@ -1,0 +1,13 @@
+{
+  "title": "Which goal is the best? | Your Hockey Career",
+  "caption": [
+    "Three goals from one Elite League game. Which one is your favorite? Tell me in the comments. Coming soon to Google Play.",
+    "One game, three goals. Pick the best one in the comments. Your Hockey Career is coming soon to Google Play."
+  ],
+  "hashtags": [
+    "hockeygoals",
+    "goaloftheday",
+    "whichone"
+  ],
+  "verified": "dev/movie_social.tscn scenario=elite seed=21 goals at 83.9 (#41 Bennett), 156.8 (#9 Rookie), 226.9 (#41 Bennett), real match engine 3-0. Closed test build 1.0.2."
+}

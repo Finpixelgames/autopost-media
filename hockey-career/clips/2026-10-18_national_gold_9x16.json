@@ -1,0 +1,13 @@
+{
+  "title": "Play for your country | Your Hockey Career",
+  "caption": [
+    "Get called up to your national team, score at the World Championship and bring home gold. Your Hockey Career is coming soon to Google Play.",
+    "Club season done, now the World Championship. Finland vs Sweden, one goal, one gold medal. Coming soon to Google Play."
+  ],
+  "hashtags": [
+    "worldchampionship",
+    "nationalteam",
+    "hockeylife"
+  ],
+  "verified": "dev/movie_social.tscn scenario=national seed=21 (World Championship Top Division, Finland vs Sweden, real match engine, AI) goal 84.4; national.tscn group view + GOLD result from GameManager national tournament (dev/shot_social.tscn). Staged career state, real game screens. Closed test build 1.0.2."
+}
