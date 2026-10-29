@@ -1,0 +1,14 @@
+{
+  "title": "Carving a Glowing Jack-o'-Lantern with a Sand Vacuum 🎃 SANDROX Halloween",
+  "caption": [
+    "Carving a jack-o'-lantern into the sand with a skull vacuum nozzle 🎃 then a ghost with the haunted one 👻 Real gameplay from SANDROX, the satisfying sand vacuum game. Halloween update: pick the HAUNTED or BONES pack for free, but the other one stays locked forever. Claim yours by Nov 15. Which one do you pick?",
+    "Something is under the sand 🎃 A skull nozzle digs a glowing pumpkin face, a ghost nozzle digs a ghost 👻 SANDROX Halloween update: two free packs, you can only claim one. HAUNTED or BONES? Claim by Nov 15."
+  ],
+  "hashtags": [
+    "sandrox",
+    "halloween",
+    "pumpkincarving",
+    "oddlysatisfying"
+  ],
+  "verified": "Pelikaappaus 2026-10-29 (capture_halloween.gd): main.tscn, HalloweenGift.claim muistissa, simuloitu kosketus. BONES = nz_bones 'BONE NOZZLE' kallo + hose_bones, kaivaa pintahiekkaan kurpitsan kasvot (oranssi kerros). HAUNTED = nz_haunted kummitussuutin + hose_haunted, kaivaa kummituksen (turkoosi). halloween_gift.gd: vain toinen paketti, END_UNIX 15.11.2026, ilmainen; popup 'The other pack stays locked.' Yövärimäärittely + hehku jälkikäsittelyä, ei AI-kuvitusta."
+}
