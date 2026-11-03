@@ -1,0 +1,13 @@
+{
+  "title": "Hold it to go top shelf | Your Hockey Career",
+  "caption": [
+    "Tap SHOOT for a low shot. Hold it longer and the puck flies top shelf. Out now on Google Play.",
+    "Low shot or top shelf? You decide how long you hold SHOOT. Out now on Google Play."
+  ],
+  "hashtags": [
+    "topshelf",
+    "hockeyhighlights",
+    "goalhorn"
+  ],
+  "verified": "dev/movie_cine.tscn render 2026-11-03 (1.0.14 game code), story screens dev/shot_career_story; generator marketing/hockey-career/social/2026-11_pack/make_pack.py; tutorial.gd 'Hold SHOOT longer to lift the puck', YOU_LIFT_MAX; goal #51 club render t=80.76, GOAL LED + fireworks"
+}

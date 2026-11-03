@@ -1,0 +1,13 @@
+{
+  "title": "Line him up | Your Hockey Career",
+  "caption": [
+    "No puck? The PASS button turns into HIT. Line him up and send him into the boards. Out now on Google Play.",
+    "Five hits, zero mercy. Your Hockey Career is out now on Google Play."
+  ],
+  "hashtags": [
+    "bighits",
+    "hockeyhits",
+    "bodycheck"
+  ],
+  "verified": "dev/movie_cine.tscn render 2026-11-03 (1.0.14 game code), story screens dev/shot_career_story; generator marketing/hockey-career/social/2026-11_pack/make_pack.py; game_controls.gd: same button PASS with puck, HIT without; hits from club/national/elite renders (hit_strips)"
+}
