@@ -1,0 +1,12 @@
+{
+  "title": "One fighter, five rarities | TIER ONE",
+  "caption": [
+    "One fighter, five rarities. Collect copies, promote, go Legendary. Who would you max first? Free on Google Play."
+  ],
+  "hashtags": [
+    "cardgame",
+    "tcg",
+    "collectiblecardgame"
+  ],
+  "verified": "models/promotion.dart rarityOrder + promoteCopies; test/social_render_test.dart CardFrontFace; make_rarity.py"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Common to Legendary | TIER ONE",
+  "caption": [
+    "Common to Legendary. Same fighter, five frames. Which card would you promote first? Free on Google Play."
+  ],
+  "hashtags": [
+    "cardgame",
+    "tcg",
+    "mobilegaming"
+  ],
+  "verified": "models/promotion.dart; make_rarity.py fighter=medusa"
+}
