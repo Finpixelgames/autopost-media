@@ -1,0 +1,12 @@
+{
+  "title": "Now on PC | Beyond Orbit",
+  "caption": [
+    "Beyond Orbit now runs on PC with Google Play Games. WASD to fly, hold the mouse to shoot, 1 to 4 or the wheel to switch weapons. Same pilot, bigger sky."
+  ],
+  "hashtags": [
+    "pcgaming",
+    "googleplaygames",
+    "keyboardandmouse"
+  ],
+  "verified": "hud.gd desktop input (WASD, MOUSE_BUTTON_LEFT, 1-4/Q/E/wheel); capture_pc.gd + make_bo_pc.py, 1.1.16 (72) LIVE 11.11."
+}
