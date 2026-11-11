@@ -1,0 +1,12 @@
+{
+  "title": "Collect all 12 colors | SANDROX",
+  "caption": [
+    "Every Today's Box bottle lands on your shelf. Get all 12 colors and the color set pays out. One color to go... Free on Google Play."
+  ],
+  "hashtags": [
+    "collectthemall",
+    "rainbowcolors",
+    "colorcollection"
+  ],
+  "verified": "game.gd SHELF_SET_REWARD 50, 12 varia; shelf_panel.gd"
+}

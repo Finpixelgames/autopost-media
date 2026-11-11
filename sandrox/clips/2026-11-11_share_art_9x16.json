@@ -1,0 +1,12 @@
+{
+  "title": "Sand art, then share it | SANDROX",
+  "caption": [
+    "No orders, no timer. Sandbox mode is just you, the sand and a nozzle. Made something pretty? Tap SHARE. Free on Google Play."
+  ],
+  "hashtags": [
+    "sandartwork",
+    "shareyourart",
+    "heartart"
+  ],
+  "verified": "main.gd _on_share_pressed, share_panel.gd; SANDBOX ilman tilauksia"
+}
