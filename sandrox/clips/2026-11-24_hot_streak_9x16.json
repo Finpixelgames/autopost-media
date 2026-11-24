@@ -1,0 +1,12 @@
+{
+  "title": "Hot streak, double pay | SANDROX",
+  "caption": [
+    "Ship 2 bottles in a row and every order pays x2. One wrong mix and the streak is gone. Free on Google Play."
+  ],
+  "hashtags": [
+    "hotstreak",
+    "doublecoins",
+    "onfire"
+  ],
+  "verified": "SANDROX 1.4.3 recording 2026-11-24 2:25-2:54: game.gd:105-108 STREAK_STEP 2 / STREAK_CAP 2, :623-627 pay *= streak_mult, :675-680 wrong mix resets; hud.gd:459 StreakPill x2, hud.gd:979 x2 on order cards; main.gd:1498 GOLDEN ORDER! +12 | omistaja hyväksyi 24.11."
+}
